@@ -6,14 +6,16 @@
 }
 
 body {
-  background: mediumseagreen;
+  background-image: url(image/forest.jpg);
+  background-position: center;
+  background-size: cover;
   font-family: 'Rubik', sans-serif;
 }
 
 .login-form {
   background: #fff;
   width: 500px;
-  margin: 65px auto;
+  margin: 200px auto;
   display: -webkit-box;
   display: flex;
   -webkit-box-orient: vertical;
